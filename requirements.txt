@@ -1,0 +1,12 @@
+eli5
+jupyter
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+shap
+statsmodels
+tensorflow
+tqdm
